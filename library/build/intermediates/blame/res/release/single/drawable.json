@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\build\\intermediates\\res\\merged\\release\\drawable\\left_arrow.xml",
+        "source": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\src\\main\\res\\drawable\\left_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\build\\intermediates\\res\\merged\\release\\drawable\\cell_bg.xml",
+        "source": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\src\\main\\res\\drawable\\cell_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\build\\intermediates\\res\\merged\\release\\drawable\\red_border.xml",
+        "source": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\src\\main\\res\\drawable\\red_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\build\\intermediates\\res\\merged\\release\\drawable\\disable_cell.xml",
+        "source": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\src\\main\\res\\drawable\\disable_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\build\\intermediates\\res\\merged\\release\\drawable\\right_arrow.xml",
+        "source": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\src\\main\\res\\drawable\\right_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\build\\intermediates\\res\\merged\\release\\drawable\\red_border_gray_bg.xml",
+        "source": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\src\\main\\res\\drawable\\red_border_gray_bg.xml"
+    }
+]

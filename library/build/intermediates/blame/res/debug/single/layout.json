@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\build\\intermediates\\res\\merged\\debug\\layout\\date_cell.xml",
+        "source": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\src\\main\\res\\layout\\date_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\build\\intermediates\\res\\merged\\debug\\layout\\date_grid_fragment.xml",
+        "source": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\src\\main\\res\\layout\\date_grid_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_view.xml",
+        "source": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\src\\main\\res\\layout\\calendar_view.xml"
+    }
+]

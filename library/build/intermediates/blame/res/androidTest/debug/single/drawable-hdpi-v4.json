@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\calendar_prev_arrow.png",
+        "source": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\calendar_prev_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\calendar_next_arrow.png",
+        "source": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\calendar_next_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Home\\AndroidStudioProjects\\MyApp\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    }
+]

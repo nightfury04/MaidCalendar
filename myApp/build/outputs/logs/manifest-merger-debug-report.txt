@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [MyApp:library:unspecified] C:\Users\Home\AndroidStudioProjects\MyApp\library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\b04abc59856c4022eed8263168a17125362927bd\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android\.android\build-cache\20b579060a066178ab9bb8988b5c5c9493acd5e6\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android\.android\build-cache\95f5f16b6655ba11024144330a915b5e4b790ab7\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android\.android\build-cache\1eaede50c84c49328b56b834d39b10c752997a51\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android\.android\build-cache\52708b32e28330788173b023fefbbafec21cfa90\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android\.android\build-cache\a02a22b6447de529aee08ba5ced6b4348afcbda8\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\b04abc59856c4022eed8263168a17125362927bd\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:12:5-27:19
+MERGED from [MyApp:library:unspecified] C:\Users\Home\AndroidStudioProjects\MyApp\library\build\intermediates\bundles\default\AndroidManifest.xml:11:5-16:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\b04abc59856c4022eed8263168a17125362927bd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android\.android\build-cache\20b579060a066178ab9bb8988b5c5c9493acd5e6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android\.android\build-cache\95f5f16b6655ba11024144330a915b5e4b790ab7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android\.android\build-cache\1eaede50c84c49328b56b834d39b10c752997a51\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android\.android\build-cache\52708b32e28330788173b023fefbbafec21cfa90\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android\.android\build-cache\a02a22b6447de529aee08ba5ced6b4348afcbda8\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:15:9-41
+	android:allowBackup
+		ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:14:9-46
+		REJECTED from [MyApp:library:unspecified] C:\Users\Home\AndroidStudioProjects\MyApp\library\build\intermediates\bundles\default\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:16:9-40
+	tools:replace
+		ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:17:9-37
+activity#com.example.myapp.MainActivity
+ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:19:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from C:\Users\Home\AndroidStudioProjects\MyApp\myApp\src\main\AndroidManifest.xml:24:27-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\b04abc59856c4022eed8263168a17125362927bd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Android\.android\build-cache\20b579060a066178ab9bb8988b5c5c9493acd5e6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Android\.android\build-cache\95f5f16b6655ba11024144330a915b5e4b790ab7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Android\.android\build-cache\1eaede50c84c49328b56b834d39b10c752997a51\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Android\.android\build-cache\52708b32e28330788173b023fefbbafec21cfa90\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Android\.android\build-cache\a02a22b6447de529aee08ba5ced6b4348afcbda8\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\b04abc59856c4022eed8263168a17125362927bd\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Android\.android\build-cache\b04abc59856c4022eed8263168a17125362927bd\output\AndroidManifest.xml:26:9-47
